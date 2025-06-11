@@ -84,17 +84,3 @@ frontend/
     ...
 ```
 
-## Customization
-
-- **To use a different dataset:** Place your CSV in `public` and update the fetch path in `App.tsx`
-- **To change rows per page or visible rows:** Edit `ROWS_PER_PAGE` and the scroll container height in `DataTable.tsx`
-
-## Author
-
-Made with ❤️ by Raunak Agarwal
-
-## License
-
-This project is for educational and assignment purposes.
-
-# LoopAI
